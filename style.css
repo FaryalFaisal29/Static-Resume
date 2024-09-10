@@ -1,0 +1,17 @@
+
+ 
+        body{background-color:rgb(122, 186, 228);}
+        header{background-color: rgb(234, 245, 88);
+                  padding: 10px;
+                  text-align: center;}
+
+        h1{color: mediumblue;
+                  font-family: 'Times New Roman';}
+
+        h2{color: magenta;
+                  font-family:'Lucida Sans';
+                  font-size: 20px;}
+        h3{color: rgb(7, 143, 29);
+            font-family: 'Arial';
+                  font-size: 18px;}          
+         
